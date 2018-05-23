@@ -1,0 +1,3377 @@
+EX Version: 2
+Region: /
+!#nodeset nodes
+Shape. Dimension=0
+#Fields=1
+1) coordinates, coordinate, rectangular cartesian, real, #Components=3
+ x. #Values=4 (value,d/ds1,d/ds2,d/ds3)
+ y. #Values=4 (value,d/ds1,d/ds2,d/ds3)
+ z. #Values=4 (value,d/ds1,d/ds2,d/ds3)
+Node: 1
+  0.000000000000000e+00  0.000000000000000e+00  1.963495408493621e-01  0.000000000000000e+00
+  0.000000000000000e+00  1.963495408493621e-01  0.000000000000000e+00  0.000000000000000e+00
+ -2.500000000000000e-01  0.000000000000000e+00  0.000000000000000e+00 -2.500000000000000e-01
+Node: 2
+  1.767766952966369e-01 -0.000000000000000e+00  1.388400918174489e-01  1.767766952966369e-01
+  0.000000000000000e+00  2.776801836348979e-01  0.000000000000000e+00  0.000000000000000e+00
+ -1.767766952966369e-01  0.000000000000000e+00  1.388400918174489e-01 -1.767766952966369e-01
+Node: 3
+  1.082445070294367e-17 -2.776801836348979e-01  8.501503701878173e-18  1.082445070294367e-17
+  1.767766952966369e-01  1.700300740375635e-17  1.388400918174489e-01  1.767766952966369e-01
+ -1.767766952966369e-01  0.000000000000000e+00  1.388400918174489e-01 -1.767766952966369e-01
+Node: 4
+ -1.767766952966369e-01 -3.400601480751270e-17 -1.388400918174489e-01 -1.767766952966369e-01
+  2.164890140588734e-17 -2.776801836348979e-01  1.700300740375635e-17  2.164890140588734e-17
+ -1.767766952966369e-01  0.000000000000000e+00  1.388400918174489e-01 -1.767766952966369e-01
+Node: 5
+ -3.247335210883100e-17  2.776801836348979e-01 -2.550451110563452e-17 -3.247335210883100e-17
+ -1.767766952966369e-01 -5.100902221126904e-17 -1.388400918174489e-01 -1.767766952966369e-01
+ -1.767766952966369e-01  0.000000000000000e+00  1.388400918174489e-01 -1.767766952966369e-01
+Node: 6
+  2.500000000000000e-01 -0.000000000000000e+00  1.202294183576119e-17  2.500000000000000e-01
+  0.000000000000000e+00  3.926990816987241e-01  0.000000000000000e+00  0.000000000000000e+00
+ -1.530808498934192e-17  0.000000000000000e+00  1.963495408493621e-01 -1.530808498934192e-17
+Node: 7
+  1.530808498934192e-17 -3.926990816987241e-01  7.361928617749869e-34  1.530808498934192e-17
+  2.500000000000000e-01  2.404588367152237e-17  1.202294183576119e-17  2.500000000000000e-01
+ -1.530808498934192e-17  0.000000000000000e+00  1.963495408493621e-01 -1.530808498934192e-17
+Node: 8
+ -2.500000000000000e-01 -4.809176734304474e-17 -1.202294183576119e-17 -2.500000000000000e-01
+  3.061616997868383e-17 -3.926990816987241e-01  1.472385723549974e-33  3.061616997868383e-17
+ -1.530808498934192e-17  0.000000000000000e+00  1.963495408493621e-01 -1.530808498934192e-17
+Node: 9
+ -4.592425496802574e-17  3.926990816987241e-01 -2.208578585324961e-33 -4.592425496802574e-17
+ -2.500000000000000e-01 -7.213765101456712e-17 -1.202294183576119e-17 -2.500000000000000e-01
+ -1.530808498934192e-17  0.000000000000000e+00  1.963495408493621e-01 -1.530808498934192e-17
+Node: 10
+  1.767766952966369e-01 -0.000000000000000e+00 -1.388400918174489e-01  1.767766952966369e-01
+  0.000000000000000e+00  2.776801836348979e-01 -0.000000000000000e+00  0.000000000000000e+00
+  1.767766952966369e-01  0.000000000000000e+00  1.388400918174489e-01  1.767766952966369e-01
+Node: 11
+  1.082445070294367e-17 -2.776801836348979e-01 -8.501503701878173e-18  1.082445070294367e-17
+  1.767766952966369e-01  1.700300740375635e-17 -1.388400918174489e-01  1.767766952966369e-01
+  1.767766952966369e-01  0.000000000000000e+00  1.388400918174489e-01  1.767766952966369e-01
+Node: 12
+ -1.767766952966369e-01 -3.400601480751270e-17  1.388400918174489e-01 -1.767766952966369e-01
+  2.164890140588734e-17 -2.776801836348979e-01 -1.700300740375635e-17  2.164890140588734e-17
+  1.767766952966369e-01  0.000000000000000e+00  1.388400918174489e-01  1.767766952966369e-01
+Node: 13
+ -3.247335210883100e-17  2.776801836348979e-01  2.550451110563452e-17 -3.247335210883100e-17
+ -1.767766952966369e-01 -5.100902221126904e-17  1.388400918174489e-01 -1.767766952966369e-01
+  1.767766952966369e-01  0.000000000000000e+00  1.388400918174489e-01  1.767766952966369e-01
+Node: 14
+  0.000000000000000e+00  0.000000000000000e+00  1.963495408493621e-01  0.000000000000000e+00
+  0.000000000000000e+00 -1.963495408493621e-01  0.000000000000000e+00  0.000000000000000e+00
+  2.500000000000000e-01  0.000000000000000e+00  0.000000000000000e+00  2.500000000000000e-01
+Node: 15
+  0.000000000000000e+00  0.000000000000000e+00  3.926990816987241e-01  0.000000000000000e+00
+  0.000000000000000e+00  3.926990816987241e-01  0.000000000000000e+00  0.000000000000000e+00
+ -5.000000000000000e-01  0.000000000000000e+00  0.000000000000000e+00 -2.500000000000000e-01
+Node: 16
+  3.535533905932738e-01 -0.000000000000000e+00  2.776801836348979e-01  1.767766952966369e-01
+  0.000000000000000e+00  5.553603672697958e-01  0.000000000000000e+00  0.000000000000000e+00
+ -3.535533905932738e-01  0.000000000000000e+00  2.776801836348979e-01 -1.767766952966369e-01
+Node: 17
+  2.164890140588734e-17 -5.553603672697958e-01  1.700300740375635e-17  1.082445070294367e-17
+  3.535533905932738e-01  3.400601480751270e-17  2.776801836348979e-01  1.767766952966369e-01
+ -3.535533905932738e-01  0.000000000000000e+00  2.776801836348979e-01 -1.767766952966369e-01
+Node: 18
+ -3.535533905932738e-01 -6.801202961502540e-17 -2.776801836348979e-01 -1.767766952966369e-01
+  4.329780281177467e-17 -5.553603672697958e-01  3.400601480751269e-17  2.164890140588734e-17
+ -3.535533905932738e-01  0.000000000000000e+00  2.776801836348979e-01 -1.767766952966369e-01
+Node: 19
+ -6.494670421766200e-17  5.553603672697958e-01 -5.100902221126904e-17 -3.247335210883100e-17
+ -3.535533905932738e-01 -1.020180444225381e-16 -2.776801836348979e-01 -1.767766952966369e-01
+ -3.535533905932738e-01  0.000000000000000e+00  2.776801836348979e-01 -1.767766952966369e-01
+Node: 20
+  5.000000000000000e-01 -0.000000000000000e+00  2.404588367152237e-17  2.500000000000000e-01
+  0.000000000000000e+00  7.853981633974483e-01  0.000000000000000e+00  0.000000000000000e+00
+ -3.061616997868383e-17  0.000000000000000e+00  3.926990816987241e-01 -1.530808498934192e-17
+Node: 21
+  3.061616997868383e-17 -7.853981633974483e-01  1.472385723549974e-33  1.530808498934192e-17
+  5.000000000000000e-01  4.809176734304474e-17  2.404588367152237e-17  2.500000000000000e-01
+ -3.061616997868383e-17  0.000000000000000e+00  3.926990816987241e-01 -1.530808498934192e-17
+Node: 22
+ -5.000000000000000e-01 -9.618353468608949e-17 -2.404588367152237e-17 -2.500000000000000e-01
+  6.123233995736766e-17 -7.853981633974483e-01  2.944771447099948e-33  3.061616997868383e-17
+ -3.061616997868383e-17  0.000000000000000e+00  3.926990816987241e-01 -1.530808498934192e-17
+Node: 23
+ -9.184850993605148e-17  7.853981633974483e-01 -4.417157170649922e-33 -4.592425496802574e-17
+ -5.000000000000000e-01 -1.442753020291342e-16 -2.404588367152237e-17 -2.500000000000000e-01
+ -3.061616997868383e-17  0.000000000000000e+00  3.926990816987241e-01 -1.530808498934192e-17
+Node: 24
+  3.535533905932738e-01 -0.000000000000000e+00 -2.776801836348979e-01  1.767766952966369e-01
+  0.000000000000000e+00  5.553603672697958e-01 -0.000000000000000e+00  0.000000000000000e+00
+  3.535533905932737e-01  0.000000000000000e+00  2.776801836348979e-01  1.767766952966369e-01
+Node: 25
+  2.164890140588734e-17 -5.553603672697958e-01 -1.700300740375635e-17  1.082445070294367e-17
+  3.535533905932738e-01  3.400601480751270e-17 -2.776801836348979e-01  1.767766952966369e-01
+  3.535533905932737e-01  0.000000000000000e+00  2.776801836348979e-01  1.767766952966369e-01
+Node: 26
+ -3.535533905932738e-01 -6.801202961502540e-17  2.776801836348979e-01 -1.767766952966369e-01
+  4.329780281177467e-17 -5.553603672697958e-01 -3.400601480751269e-17  2.164890140588734e-17
+  3.535533905932737e-01  0.000000000000000e+00  2.776801836348979e-01  1.767766952966369e-01
+Node: 27
+ -6.494670421766200e-17  5.553603672697958e-01  5.100902221126904e-17 -3.247335210883100e-17
+ -3.535533905932738e-01 -1.020180444225381e-16  2.776801836348979e-01 -1.767766952966369e-01
+  3.535533905932737e-01  0.000000000000000e+00  2.776801836348979e-01  1.767766952966369e-01
+Node: 28
+  0.000000000000000e+00  0.000000000000000e+00  3.926990816987241e-01  0.000000000000000e+00
+  0.000000000000000e+00 -3.926990816987241e-01  0.000000000000000e+00  0.000000000000000e+00
+  5.000000000000000e-01  0.000000000000000e+00  0.000000000000000e+00  2.500000000000000e-01
+!#mesh mesh1d, dimension=1, nodeset=nodes
+Shape. Dimension=1, line
+#Scale factor sets=0
+#Nodes=0
+#Fields=0
+Element: 1
+Element: 2
+Element: 3
+Element: 4
+Element: 5
+Element: 6
+Element: 7
+Element: 8
+Element: 9
+Element: 10
+Element: 11
+Element: 12
+Element: 13
+Element: 14
+Element: 15
+Element: 16
+Element: 17
+Element: 18
+Element: 19
+Element: 20
+Element: 21
+Element: 22
+Element: 23
+Element: 24
+Element: 25
+Element: 26
+Element: 27
+Element: 28
+Element: 29
+Element: 30
+Element: 31
+Element: 32
+Element: 33
+Element: 34
+Element: 35
+Element: 36
+Element: 37
+Element: 38
+Element: 39
+Element: 40
+Element: 41
+Element: 42
+Element: 43
+Element: 44
+Element: 45
+Element: 46
+Element: 47
+Element: 48
+Element: 49
+Element: 50
+Element: 51
+Element: 52
+Element: 53
+Element: 54
+Element: 55
+Element: 56
+Element: 57
+Element: 58
+Element: 59
+Element: 60
+Element: 61
+Element: 62
+Element: 63
+Element: 64
+Element: 65
+Element: 66
+Element: 67
+Element: 68
+Element: 69
+Element: 70
+!#mesh mesh2d, dimension=2, face mesh=mesh1d, nodeset=nodes
+Shape. Dimension=2, line*line
+#Scale factor sets=0
+#Nodes=0
+#Fields=0
+Element: 1
+ Faces:
+ 1 2 3 4
+Element: 2
+ Faces:
+ 1 5 6 7
+Element: 3
+ Faces:
+ 8 9 2 5
+Element: 4
+ Faces:
+ 3 6 -1 8
+Element: 5
+ Faces:
+ 4 7 -1 9
+Element: 6
+ Faces:
+ 1 10 11 12
+Element: 7
+ Faces:
+ 13 14 5 10
+Element: 8
+ Faces:
+ 6 11 -1 13
+Element: 9
+ Faces:
+ 7 12 -1 14
+Element: 10
+ Faces:
+ 1 15 16 17
+Element: 11
+ Faces:
+ 18 19 10 15
+Element: 12
+ Faces:
+ 11 16 -1 18
+Element: 13
+ Faces:
+ 12 17 -1 19
+Element: 14
+ Faces:
+ 20 21 15 2
+Element: 15
+ Faces:
+ 16 3 -1 20
+Element: 16
+ Faces:
+ 17 4 -1 21
+Element: 17
+ Faces:
+ 2 22 23 24
+Element: 18
+ Faces:
+ 5 25 26 27
+Element: 19
+ Faces:
+ 28 29 22 25
+Element: 20
+ Faces:
+ 23 26 8 28
+Element: 21
+ Faces:
+ 24 27 9 29
+Element: 22
+ Faces:
+ 10 30 31 32
+Element: 23
+ Faces:
+ 33 34 25 30
+Element: 24
+ Faces:
+ 26 31 13 33
+Element: 25
+ Faces:
+ 27 32 14 34
+Element: 26
+ Faces:
+ 15 35 36 37
+Element: 27
+ Faces:
+ 38 39 30 35
+Element: 28
+ Faces:
+ 31 36 18 38
+Element: 29
+ Faces:
+ 32 37 19 39
+Element: 30
+ Faces:
+ 40 41 35 22
+Element: 31
+ Faces:
+ 36 23 20 40
+Element: 32
+ Faces:
+ 37 24 21 41
+Element: 33
+ Faces:
+ 22 42 43 44
+Element: 34
+ Faces:
+ 25 45 46 47
+Element: 35
+ Faces:
+ 48 49 42 45
+Element: 36
+ Faces:
+ 43 46 28 48
+Element: 37
+ Faces:
+ 44 47 29 49
+Element: 38
+ Faces:
+ 30 50 51 52
+Element: 39
+ Faces:
+ 53 54 45 50
+Element: 40
+ Faces:
+ 46 51 33 53
+Element: 41
+ Faces:
+ 47 52 34 54
+Element: 42
+ Faces:
+ 35 55 56 57
+Element: 43
+ Faces:
+ 58 59 50 55
+Element: 44
+ Faces:
+ 51 56 38 58
+Element: 45
+ Faces:
+ 52 57 39 59
+Element: 46
+ Faces:
+ 60 61 55 42
+Element: 47
+ Faces:
+ 56 43 40 60
+Element: 48
+ Faces:
+ 57 44 41 61
+Element: 49
+ Faces:
+ 42 62 63 64
+Element: 50
+ Faces:
+ 45 62 65 66
+Element: 51
+ Faces:
+ 63 65 48 -1
+Element: 52
+ Faces:
+ 64 66 49 -1
+Element: 53
+ Faces:
+ 50 62 67 68
+Element: 54
+ Faces:
+ 65 67 53 -1
+Element: 55
+ Faces:
+ 66 68 54 -1
+Element: 56
+ Faces:
+ 55 62 69 70
+Element: 57
+ Faces:
+ 67 69 58 -1
+Element: 58
+ Faces:
+ 68 70 59 -1
+Element: 59
+ Faces:
+ 69 63 60 -1
+Element: 60
+ Faces:
+ 70 64 61 -1
+!#mesh mesh3d, dimension=3, face mesh=mesh2d, nodeset=nodes
+Shape. Dimension=3, line*line*line
+#Scale factor sets=1
+  scaling1, #Scale factors=13, identifiers="global_general(1) node_general(1,2,3,101,102,103,1,2,3,101,102,103)"
+#Nodes=6
+#Fields=1
+1) coordinates, coordinate, rectangular cartesian, real, #Components=3
+ x. c.Hermite*c.Hermite*c.Hermite, no modify, standard node based. scale factor set=scaling1
+  #Nodes=6
+  1. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1+1. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 2+3 3*4+1*2*4
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  1. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1+1. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 5+6 6*7+1*5*7
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  2. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  2. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4+4. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 8+9 9*10+1*8*10
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4+4. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 11+12 12*13+1*11*13
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  5. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  5. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+ y. c.Hermite*c.Hermite*c.Hermite, no modify, standard node based. scale factor set=scaling1
+  #Nodes=6
+  1. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1+1. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 2+3 3*4+1*2*4
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  1. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1+1. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 5+6 6*7+1*5*7
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  2. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  2. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4+4. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 8+9 9*10+1*8*10
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4+4. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 11+12 12*13+1*11*13
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  5. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  5. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+ z. c.Hermite*c.Hermite*c.Hermite, no modify, standard node based. scale factor set=scaling1
+  #Nodes=6
+  1. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1+1. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 2+3 3*4+1*2*4
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  1. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1+1. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 5+6 6*7+1*5*7
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  2. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  2. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4+4. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 8+9 9*10+1*8*10
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4+4. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 11+12 12*13+1*11*13
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  5. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  5. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+Element: 1
+ Faces:
+ 1 2 -1 3 4 5
+ Nodes:
+ 1 2 3 15 16 17
+ Scale factors:
+ -1.000000000000000e+00  0.000000000000000e+00  1.000000000000000e+00  1.570796326794897e+00  1.000000000000000e+00
+  6.123233995736766e-17  1.570796326794897e+00  0.000000000000000e+00  1.000000000000000e+00  1.570796326794897e+00
+  1.000000000000000e+00  6.123233995736766e-17  1.570796326794897e+00
+#Scale factor sets=1
+  scaling1, #Scale factors=13, identifiers="global_general(1) node_general(101,102,103,201,202,203,101,102,103,201,202,203)"
+#Nodes=6
+#Fields=1
+1) coordinates, coordinate, rectangular cartesian, real, #Components=3
+ x. c.Hermite*c.Hermite*c.Hermite, no modify, standard node based. scale factor set=scaling1
+  #Nodes=6
+  1. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1+1. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 2+3 3*4+1*2*4
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  1. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1+1. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 5+6 6*7+1*5*7
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  2. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  2. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4+4. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 8+9 9*10+1*8*10
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4+4. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 11+12 12*13+1*11*13
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  5. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  5. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+ y. c.Hermite*c.Hermite*c.Hermite, no modify, standard node based. scale factor set=scaling1
+  #Nodes=6
+  1. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1+1. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 2+3 3*4+1*2*4
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  1. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1+1. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 5+6 6*7+1*5*7
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  2. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  2. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4+4. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 8+9 9*10+1*8*10
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4+4. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 11+12 12*13+1*11*13
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  5. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  5. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+ z. c.Hermite*c.Hermite*c.Hermite, no modify, standard node based. scale factor set=scaling1
+  #Nodes=6
+  1. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1+1. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 2+3 3*4+1*2*4
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  1. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1+1. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 5+6 6*7+1*5*7
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  2. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  2. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4+4. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 8+9 9*10+1*8*10
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4+4. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 11+12 12*13+1*11*13
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  5. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  5. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+Element: 2
+ Faces:
+ 2 6 -1 7 8 9
+ Nodes:
+ 1 3 4 15 17 18
+ Scale factors:
+ -1.000000000000000e+00  1.000000000000000e+00  6.123233995736766e-17  1.570796326794897e+00  1.224646799147353e-16
+ -1.000000000000000e+00  1.570796326794897e+00  1.000000000000000e+00  6.123233995736766e-17  1.570796326794897e+00
+  1.224646799147353e-16 -1.000000000000000e+00  1.570796326794897e+00
+#Scale factor sets=1
+  scaling1, #Scale factors=13, identifiers="global_general(1) node_general(201,202,203,301,302,303,201,202,203,301,302,303)"
+#Nodes=6
+#Fields=1
+1) coordinates, coordinate, rectangular cartesian, real, #Components=3
+ x. c.Hermite*c.Hermite*c.Hermite, no modify, standard node based. scale factor set=scaling1
+  #Nodes=6
+  1. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1+1. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 2+3 3*4+1*2*4
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  1. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1+1. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 5+6 6*7+1*5*7
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  2. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  2. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4+4. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 8+9 9*10+1*8*10
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4+4. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 11+12 12*13+1*11*13
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  5. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  5. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+ y. c.Hermite*c.Hermite*c.Hermite, no modify, standard node based. scale factor set=scaling1
+  #Nodes=6
+  1. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1+1. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 2+3 3*4+1*2*4
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  1. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1+1. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 5+6 6*7+1*5*7
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  2. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  2. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4+4. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 8+9 9*10+1*8*10
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4+4. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 11+12 12*13+1*11*13
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  5. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  5. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+ z. c.Hermite*c.Hermite*c.Hermite, no modify, standard node based. scale factor set=scaling1
+  #Nodes=6
+  1. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1+1. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 2+3 3*4+1*2*4
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  1. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1+1. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 5+6 6*7+1*5*7
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  2. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  2. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4+4. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 8+9 9*10+1*8*10
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4+4. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 11+12 12*13+1*11*13
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  5. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  5. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+Element: 3
+ Faces:
+ 6 10 -1 11 12 13
+ Nodes:
+ 1 4 5 15 18 19
+ Scale factors:
+ -1.000000000000000e+00  1.224646799147353e-16 -1.000000000000000e+00  1.570796326794897e+00 -1.000000000000000e+00
+ -1.836970198721030e-16  1.570796326794897e+00  1.224646799147353e-16 -1.000000000000000e+00  1.570796326794897e+00
+ -1.000000000000000e+00 -1.836970198721030e-16  1.570796326794897e+00
+#Scale factor sets=1
+  scaling1, #Scale factors=13, identifiers="global_general(1) node_general(301,302,303,1,2,3,301,302,303,1,2,3)"
+#Nodes=6
+#Fields=1
+1) coordinates, coordinate, rectangular cartesian, real, #Components=3
+ x. c.Hermite*c.Hermite*c.Hermite, no modify, standard node based. scale factor set=scaling1
+  #Nodes=6
+  1. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1+1. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 2+3 3*4+1*2*4
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  1. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1+1. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 5+6 6*7+1*5*7
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  2. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  2. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4+4. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 8+9 9*10+1*8*10
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4+4. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 11+12 12*13+1*11*13
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  5. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  5. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+ y. c.Hermite*c.Hermite*c.Hermite, no modify, standard node based. scale factor set=scaling1
+  #Nodes=6
+  1. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1+1. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 2+3 3*4+1*2*4
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  1. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1+1. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 5+6 6*7+1*5*7
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  2. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  2. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4+4. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 8+9 9*10+1*8*10
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4+4. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 11+12 12*13+1*11*13
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  5. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  5. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+ z. c.Hermite*c.Hermite*c.Hermite, no modify, standard node based. scale factor set=scaling1
+  #Nodes=6
+  1. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1+1. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 2+3 3*4+1*2*4
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  1. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1+1. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 5+6 6*7+1*5*7
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  2. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  2. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4+4. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 8+9 9*10+1*8*10
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4+4. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 11+12 12*13+1*11*13
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  5. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  5. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+Element: 4
+ Faces:
+ 10 1 -1 14 15 16
+ Nodes:
+ 1 5 2 15 19 16
+ Scale factors:
+ -1.000000000000000e+00 -1.000000000000000e+00 -1.836970198721030e-16  1.570796326794897e+00  0.000000000000000e+00
+  1.000000000000000e+00  1.570796326794897e+00 -1.000000000000000e+00 -1.836970198721030e-16  1.570796326794897e+00
+  0.000000000000000e+00  1.000000000000000e+00  1.570796326794897e+00
+#Scale factor sets=0
+#Nodes=8
+#Fields=1
+1) coordinates, coordinate, rectangular cartesian, real, #Components=3
+ x. c.Hermite*c.Hermite*c.Hermite, no modify, standard node based.
+  #Nodes=8
+  1. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  1. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  2. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  2. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  3. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  3. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  4. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  4. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  5. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  5. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  6. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  6. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  7. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  7. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  8. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  8. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+ y. c.Hermite*c.Hermite*c.Hermite, no modify, standard node based.
+  #Nodes=8
+  1. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  1. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  2. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  2. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  3. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  3. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  4. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  4. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  5. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  5. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  6. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  6. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  7. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  7. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  8. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  8. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+ z. c.Hermite*c.Hermite*c.Hermite, no modify, standard node based.
+  #Nodes=8
+  1. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  1. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  2. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  2. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  3. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  3. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  4. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  4. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  5. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  5. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  6. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  6. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  7. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  7. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+  8. #Values=3
+   Value labels: value d/ds1 d/ds2
+  0. #Values=1
+   Value labels: zero
+  8. #Values=1
+   Value labels: d/ds3
+  0. #Values=3
+   Value labels: zero zero zero
+Element: 5
+ Faces:
+ 17 18 3 19 20 21
+ Nodes:
+ 2 3 6 7 16 17 20 21
+Element: 6
+ Faces:
+ 18 22 7 23 24 25
+ Nodes:
+ 3 4 7 8 17 18 21 22
+Element: 7
+ Faces:
+ 22 26 11 27 28 29
+ Nodes:
+ 4 5 8 9 18 19 22 23
+Element: 8
+ Faces:
+ 26 17 14 30 31 32
+ Nodes:
+ 5 2 9 6 19 16 23 20
+Element: 9
+ Faces:
+ 33 34 19 35 36 37
+ Nodes:
+ 6 7 10 11 20 21 24 25
+Element: 10
+ Faces:
+ 34 38 23 39 40 41
+ Nodes:
+ 7 8 11 12 21 22 25 26
+Element: 11
+ Faces:
+ 38 42 27 43 44 45
+ Nodes:
+ 8 9 12 13 22 23 26 27
+Element: 12
+ Faces:
+ 42 33 30 46 47 48
+ Nodes:
+ 9 6 13 10 23 20 27 24
+#Scale factor sets=1
+  scaling1, #Scale factors=13, identifiers="global_general(1) node_general(1,2,3,101,102,103,1,2,3,101,102,103)"
+#Nodes=6
+#Fields=1
+1) coordinates, coordinate, rectangular cartesian, real, #Components=3
+ x. c.Hermite*c.Hermite*c.Hermite, no modify, standard node based. scale factor set=scaling1
+  #Nodes=6
+  1. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  2. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  2. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3+3. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 2+3 1*3*4+2*4
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3+3. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 5+6 1*6*7+5*7
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  5. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  5. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6+6. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 8+9 1*9*10+8*10
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6+6. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 11+12 1*12*13+11*13
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+ y. c.Hermite*c.Hermite*c.Hermite, no modify, standard node based. scale factor set=scaling1
+  #Nodes=6
+  1. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  2. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  2. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3+3. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 2+3 1*3*4+2*4
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3+3. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 5+6 1*6*7+5*7
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  5. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  5. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6+6. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 8+9 1*9*10+8*10
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6+6. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 11+12 1*12*13+11*13
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+ z. c.Hermite*c.Hermite*c.Hermite, no modify, standard node based. scale factor set=scaling1
+  #Nodes=6
+  1. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  2. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  2. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3+3. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 2+3 1*3*4+2*4
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3+3. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 5+6 1*6*7+5*7
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  5. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  5. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6+6. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 8+9 1*9*10+8*10
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6+6. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 11+12 1*12*13+11*13
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+Element: 13
+ Faces:
+ 49 50 35 -1 51 52
+ Nodes:
+ 10 11 14 24 25 28
+ Scale factors:
+ -1.000000000000000e+00 -1.224646799147353e-16 -1.000000000000000e+00  1.570796326794897e+00  1.000000000000000e+00
+ -1.836970198721030e-16  1.570796326794897e+00 -1.224646799147353e-16 -1.000000000000000e+00  1.570796326794897e+00
+  1.000000000000000e+00 -1.836970198721030e-16  1.570796326794897e+00
+#Scale factor sets=1
+  scaling1, #Scale factors=13, identifiers="global_general(1) node_general(101,102,103,201,202,203,101,102,103,201,202,203)"
+#Nodes=6
+#Fields=1
+1) coordinates, coordinate, rectangular cartesian, real, #Components=3
+ x. c.Hermite*c.Hermite*c.Hermite, no modify, standard node based. scale factor set=scaling1
+  #Nodes=6
+  1. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  2. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  2. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3+3. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 2+3 1*3*4+2*4
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3+3. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 5+6 1*6*7+5*7
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  5. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  5. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6+6. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 8+9 1*9*10+8*10
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6+6. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 11+12 1*12*13+11*13
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+ y. c.Hermite*c.Hermite*c.Hermite, no modify, standard node based. scale factor set=scaling1
+  #Nodes=6
+  1. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  2. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  2. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3+3. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 2+3 1*3*4+2*4
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3+3. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 5+6 1*6*7+5*7
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  5. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  5. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6+6. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 8+9 1*9*10+8*10
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6+6. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 11+12 1*12*13+11*13
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+ z. c.Hermite*c.Hermite*c.Hermite, no modify, standard node based. scale factor set=scaling1
+  #Nodes=6
+  1. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  2. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  2. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3+3. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 2+3 1*3*4+2*4
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3+3. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 5+6 1*6*7+5*7
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  5. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  5. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6+6. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 8+9 1*9*10+8*10
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6+6. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 11+12 1*12*13+11*13
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+Element: 14
+ Faces:
+ 50 53 39 -1 54 55
+ Nodes:
+ 11 12 14 25 26 28
+ Scale factors:
+ -1.000000000000000e+00  1.000000000000000e+00 -1.836970198721030e-16  1.570796326794897e+00  2.449293598294706e-16
+  1.000000000000000e+00  1.570796326794897e+00  1.000000000000000e+00 -1.836970198721030e-16  1.570796326794897e+00
+  2.449293598294706e-16  1.000000000000000e+00  1.570796326794897e+00
+#Scale factor sets=1
+  scaling1, #Scale factors=13, identifiers="global_general(1) node_general(201,202,203,301,302,303,201,202,203,301,302,303)"
+#Nodes=6
+#Fields=1
+1) coordinates, coordinate, rectangular cartesian, real, #Components=3
+ x. c.Hermite*c.Hermite*c.Hermite, no modify, standard node based. scale factor set=scaling1
+  #Nodes=6
+  1. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  2. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  2. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3+3. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 2+3 1*3*4+2*4
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3+3. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 5+6 1*6*7+5*7
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  5. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  5. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6+6. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 8+9 1*9*10+8*10
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6+6. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 11+12 1*12*13+11*13
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+ y. c.Hermite*c.Hermite*c.Hermite, no modify, standard node based. scale factor set=scaling1
+  #Nodes=6
+  1. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  2. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  2. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3+3. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 2+3 1*3*4+2*4
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3+3. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 5+6 1*6*7+5*7
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  5. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  5. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6+6. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 8+9 1*9*10+8*10
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6+6. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 11+12 1*12*13+11*13
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+ z. c.Hermite*c.Hermite*c.Hermite, no modify, standard node based. scale factor set=scaling1
+  #Nodes=6
+  1. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  2. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  2. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3+3. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 2+3 1*3*4+2*4
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3+3. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 5+6 1*6*7+5*7
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  5. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  5. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6+6. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 8+9 1*9*10+8*10
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6+6. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 11+12 1*12*13+11*13
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+Element: 15
+ Faces:
+ 53 56 43 -1 57 58
+ Nodes:
+ 12 13 14 26 27 28
+ Scale factors:
+ -1.000000000000000e+00  2.449293598294706e-16  1.000000000000000e+00  1.570796326794897e+00 -1.000000000000000e+00
+  3.061616997868383e-16  1.570796326794897e+00  2.449293598294706e-16  1.000000000000000e+00  1.570796326794897e+00
+ -1.000000000000000e+00  3.061616997868383e-16  1.570796326794897e+00
+#Scale factor sets=1
+  scaling1, #Scale factors=13, identifiers="global_general(1) node_general(301,302,303,1,2,3,301,302,303,1,2,3)"
+#Nodes=6
+#Fields=1
+1) coordinates, coordinate, rectangular cartesian, real, #Components=3
+ x. c.Hermite*c.Hermite*c.Hermite, no modify, standard node based. scale factor set=scaling1
+  #Nodes=6
+  1. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  2. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  2. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3+3. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 2+3 1*3*4+2*4
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3+3. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 5+6 1*6*7+5*7
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  5. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  5. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6+6. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 8+9 1*9*10+8*10
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6+6. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 11+12 1*12*13+11*13
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+ y. c.Hermite*c.Hermite*c.Hermite, no modify, standard node based. scale factor set=scaling1
+  #Nodes=6
+  1. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  2. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  2. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3+3. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 2+3 1*3*4+2*4
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3+3. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 5+6 1*6*7+5*7
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  5. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  5. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6+6. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 8+9 1*9*10+8*10
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6+6. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 11+12 1*12*13+11*13
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+ z. c.Hermite*c.Hermite*c.Hermite, no modify, standard node based. scale factor set=scaling1
+  #Nodes=6
+  1. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  1. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  2. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  2. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3+3. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 2+3 1*3*4+2*4
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  3. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  3+3. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 5+6 1*6*7+5*7
+  3. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  4. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  4. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  5. #Values=3
+   Value labels: value d/ds1 d/ds2
+   Scale factor indices: 0 0 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  5. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6+6. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 8+9 1*9*10+8*10
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+  6. #Values=1
+   Value labels: value
+   Scale factor indices: 0
+  0. #Values=1
+   Value labels: zero
+   Scale factor indices: 0
+  6+6. #Values=2
+   Value labels: d/ds1+d/ds2 d/ds1+d/ds2
+   Scale factor indices: 11+12 1*12*13+11*13
+  6. #Values=1
+   Value labels: d/ds3
+   Scale factor indices: 0
+  0. #Values=3
+   Value labels: zero zero zero
+   Scale factor indices: 0 0 0
+Element: 16
+ Faces:
+ 56 49 46 -1 59 60
+ Nodes:
+ 13 10 14 27 24 28
+ Scale factors:
+ -1.000000000000000e+00 -1.000000000000000e+00  3.061616997868383e-16  1.570796326794897e+00 -1.224646799147353e-16
+ -1.000000000000000e+00  1.570796326794897e+00 -1.000000000000000e+00  3.061616997868383e-16  1.570796326794897e+00
+ -1.224646799147353e-16 -1.000000000000000e+00  1.570796326794897e+00
